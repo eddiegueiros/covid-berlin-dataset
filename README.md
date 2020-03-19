@@ -1,4 +1,4 @@
-# covid-berlin-dataset
+# Dataset for Corona Virus confirmed cases in Berlin | Germany)
 Dataset source: https://www.berlin.de/sen/gpg/service/presse/2020/
 
 ![](dashboard.gif)
