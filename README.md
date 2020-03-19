@@ -12,7 +12,8 @@ This dataset structure is optimized to be consumed in BI tools such as Tableau. 
 The dataset is small enough to be consumed in a google sheet. If you’re a Tableau developer you can simply import the raw CSV file from GitHub in your private google sheet following the instructions below. Most modern Bi tools offers this sort of integration.
 
 ## Consuming ‘live’ CSVs in GoogleSheets
-Automatically import the raw csv url on google sheets by using `=importdata("csv_url_here")` function. 
+Automatically import the raw csv url on google sheets by using `=importdata("csv_url_here")` function.
+After importing the date column might get a bit funky on google sheets, simple change the column type to ***date***
 
 ### If you want to skip the header
 ```
